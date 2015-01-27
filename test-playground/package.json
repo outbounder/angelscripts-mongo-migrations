@@ -1,0 +1,7 @@
+{
+  "name": "fakeProject",
+  "devDependencies": {
+    "angelscripts-help": "0.0.2",
+    "organic-angel": "^0.2.17"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "directory": "./db-migrations",
+  "host": "localhost",
+  "port": "27017",
+  "db": "test",
+  "collection": "migrations"
+}

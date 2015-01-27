@@ -1,0 +1,7 @@
+{
+  "name": "angelscripts-mongo-migrations",
+  "dependencies": {
+    "angelabilities-prompt": "0.0.1",
+    "mongodb-migrations": "0.2.1"
+  }
+}
